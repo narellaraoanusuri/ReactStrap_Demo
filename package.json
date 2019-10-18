@@ -6,7 +6,7 @@
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.3.1",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-icons": "2.2.7",
